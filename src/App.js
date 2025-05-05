@@ -9,8 +9,10 @@ function App() {
         <h2>BMI Calculator</h2>
         <form>
 <label> Weight (lbs)  </label>
+<input type ="text" placeholder=''></input>
         </form>
       </div>
+
 
 
     </div>
